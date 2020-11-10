@@ -1,3 +1,4 @@
+ output_dir: "."
    name: "my-website"
 navbar:
   title: "Hayden Bock"
@@ -6,4 +7,3 @@ navbar:
       href: index.html
     - text: "Experience"
       href: CV.html
-output_dir: "."
