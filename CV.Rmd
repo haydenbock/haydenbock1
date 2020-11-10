@@ -6,8 +6,14 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<br>
+
 # HAYDEN BOCK CV
 
+---
+
+**Info:**
+<br>
 Hayden William Bock
 <br>
 PhD Student
@@ -16,7 +22,6 @@ Phone: 814-852-8053
 <br>
 Email: hwb44@cornell.edu
 
-<br>
 <br>
 
 # Education			
@@ -136,22 +141,22 @@ Assists Head Coach, Jane Catanzaro, with practice and race day operations associ
 **Grounds Crew** | Sanderson Farm Classic		
 October 26th-30th 2016; Hours: 36		
 Maintained a consistent and aesthetically pleasing playing surface for PGA tournament players throughout the tournament. Jobs included bunker raking, leaf blowing, watering greens, temperature readings, etc.
----
+
 <br>
 
 ### Research and Publications		
-1.	Fleishman, S., Bock, H., Eissenstat, D.M. (2020). Influence of cover crops on deep soil environment in Noiret vineyards. (Agriculture Ecosystem and Environment, in review).
-2.	Yates, C., Guo, J., Bell, T.H., Fleishman, S., Bock, H., Trexler, R., Eissenstat, D. M., Centinari, M. (2020). Tree-induced alterations to soil properties and root-associated microorganisms following 23 years in a common garden. (Plant and Soil, in review)
-3.	Bock, H., Banizewski, J., Bruns, M.A, Tooker, J. (2020). Influences of planting density on granivory in polyculture cropping systems. (in progress)
-4.	Bock, H., Fleishman, S., Eissenstat, D.M. (2018) Effects of red fescue cover crop on grapevine root distribution. (unpublished undergraduate project)
+1.	Fleishman, S., **Bock, H.**, Eissenstat, D.M. (2020). Influence of cover crops on deep soil environment in Noiret vineyards. (Agriculture Ecosystem and Environment, in review).
+2.	Yates, C., Guo, J., Bell, T.H., Fleishman, S., **Bock, H.**, Trexler, R., Eissenstat, D. M., Centinari, M. (2020). Tree-induced alterations to soil properties and root-associated microorganisms following 23 years in a common garden. (Plant and Soil, in review)
+3.	**Bock, H.**, Banizewski, J., Bruns, M.A, Tooker, J. (2020). Influences of planting density on granivory in polyculture cropping systems. (in progress)
+4.	**Bock, H.**, Fleishman, S., Eissenstat, D.M. (2018) Effects of red fescue cover crop on grapevine root distribution. (unpublished undergraduate project)
 
----
+
 <br>
 
 ### Presentations			
-1.	Bock, H. Penn State Undergraduate Research Fair: Effects of root morphology and mycorrhizae types for tree species on soil nutrient properties. Undergraduate Research Expo, University Park, PA, 17 April 2019
-2.	Bock, H., Banizewski, J., Bruns, M., Tooker, J. Influences of planting density on granivory in polyculture cropping systems. Entomological Society of America, St. Louis, MO November 16-20, 2019
-3.	Bock, H., Fleishman, S., Eissenstat, D.M., Centinari, M. Influences of Cover Crops on Deep-Soil environments in Noiret Vineyards. Will present at University Park, PA April 2020
+1.	**Bock, H.** Penn State Undergraduate Research Fair: Effects of root morphology and mycorrhizae types for tree species on soil nutrient properties. Undergraduate Research Expo, University Park, PA, 17 April 2019
+2.	**Bock, H.**, Banizewski, J., Bruns, M., Tooker, J. Influences of planting density on granivory in polyculture cropping systems. Entomological Society of America, St. Louis, MO November 16-20, 2019
+3.	**Bock, H.**, Fleishman, S., Eissenstat, D.M., Centinari, M. Influences of Cover Crops on Deep-Soil environments in Noiret Vineyards. Will present at University Park, PA April 2020
 			
 			
 			
