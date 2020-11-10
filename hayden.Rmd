@@ -8,6 +8,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # A little about me
 
-I am a first year PhD student in [Kyle Wickings Soil Arthropod Ecology Lab](http://blogs.cornell.edu/wickings/people/). I have many interests, but they mainly relate to 
-![a picture of soil](https://pbs.twimg.com/media/EKc0T0zWkAAVGfe.jpg)
+I am a first year PhD student in [Kyle Wickings Soil Arthropod Ecology Lab](http://blogs.cornell.edu/wickings/people/). I have many interests, but they mainly relate to basic question surrounding soil food webs.
+
+![](https://pbs.twimg.com/media/EKc0T0zWkAAVGfe.jpg)
+
+<br>
+
+## Interests
+
 
