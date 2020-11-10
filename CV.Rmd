@@ -1,7 +1,4 @@
 ---
-title: "CV"
-author: "Hayden Bock"
-date: "11/10/2020"
 output: html_document
 ---
 
@@ -9,23 +6,34 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## CURRICULUM VITAE
+# HAYDEN BOCK CV
+
 Hayden William Bock
+<br>
 PhD Student
+<br>
 Phone: 814-852-8053
+<br>
 Email: hwb44@cornell.edu
 
+<br>
+<br>
+
 # Education			
-Institution	Degree	Year	Field of Study
-Cornell University	Ph.D. Entomology
+
+**Cornell University	Ph.D. Entomology**
+<br>
 GPA: NA	Expected 2025	Insect ecology, soil ecology
-			
-The Pennsylvania State University	B.S. Plant Science      
+	
+**The Pennsylvania State University	B.S. Plant Science**      
 GPA: 3.88                          
 Dean’s List all semesters                                            	2020	Plant Science
 (Agroecology focus)
 Minors: Agronomy, Entomology
-Work History			
+
+<br>
+
+# Work History			
 08/2020 to 12/2020	Graduate Teaching Assistant, Dr. Linda Rayor’s ENTOM 3150 Spider Biology. 
 	
 05/2018 to 8/2020	Undergraduate research assistant, John Tooker Lab, 
@@ -41,70 +49,106 @@ The Pennsylvania State University, University Park, PA.
 	
 05/2019 to 05/2020	Student agronomy research technician, Russell E. Larson         Agricultural Research Station, Rocksprings, PA.  
 	
- 05/2015 to 04/2019	Merchandiser at TJMaxx, State College, PA.
-	
-# Grants Received			
-2019	Undergraduate Travel Grant, Department of Undergraduate Research, PSU $300.00
-	
-2019	Undergraduate Travel Grant, College of Ag Science, PSU $300.00
-2019	Undergraduate Travel Grant, Dept. of Entomology, PSU $400.00
-2019	Undergraduate Research Grant, PSU $1,500.00.
-2019	Erickson Discovery Grant, PSU $3,500.00.
-2018	Undergraduate Research Grant, PSU $2,000.00
-Scholarships			
-The Pennsylvania State University			
+05/2015 to 04/2019	Merchandiser at TJMaxx, State College, PA.
+
+
+<br>
+
+### Grants Received			
+2019 	Undergraduate Travel Grant, Department of Undergraduate Research, PSU $300.00
+
+2019 	Undergraduate Travel Grant, College of Ag Science, PSU $300.00
+
+2019 	Undergraduate Travel Grant, Dept. of Entomology, PSU $400.00
+
+2019 	Undergraduate Research Grant, PSU $1,500.00.
+
+2019 	Erickson Discovery Grant, PSU $3,500.00.
+
+2018 	Undergraduate Research Grant, PSU $2,000.00
+
+<br>
+
+### Scholarships			
+**The Pennsylvania State University**			
 19/20	Gerhart Crop and Soil Scholarship 	$1,500.00	
+
 19/20	Lawrence F Marriot Scholarship 	$2,496.00	
+
 18/19	Fehnel Scholarship in Agroecology 	$409.00	
+
 18/19	Lawrence F Marriot Scholarship 	$1619.00	
-18/19	PSU College of Ag Scholarship	$1000.00	
-18/19	PSU Ready to Succeed Scholarship 	$2000.00	
-Mississippi State University			
+
+18/19	PSU College of Ag Scholarship	$1000.00
+
+18/19	PSU Ready to Succeed Scholarship 	$2000.00
+
+
+**Mississippi State University**			
 16/17	Academic Success Scholarship 	$16,000.00	
 
-# Relevant Skills			
-Soil Science	Soil judging, elemental analysis, ICP-OES, Mehlich 3 and KCL extraction (colorimetry and spectrophotometry), nitrogen modeling software (Encirca by Pioneer/Corteva), bulk density, infiltration
+<br>
+
+### Relevant Skills			
+**Soil Science**	Soil judging, elemental analysis, ICP-OES, Mehlich 3 and KCL extraction (colorimetry and spectrophotometry), nitrogen modeling software (Encirca by Pioneer/Corteva), bulk density, infiltration
 	
 	
-Agronomy	Crop scouting for corn, soybeans, small grains (nutrient deficiencies, insects, diseases), staging, yield estimation, tractor operations and planter calibrations
+**Agronomy**	Crop scouting for corn, soybeans, small grains (nutrient deficiencies, insects, diseases), staging, yield estimation, tractor operations and planter calibrations
 	
-Root ecology	WhinRhizo software, AMF colonization calculations
+**Root ecology**	WhinRhizo software, AMF colonization calculations
 Entomology	Crop scouting, insect rearing, identification, taxonomy and morphology, pinning and collection maintenance
 	
-Statistics	Rstudio (fluent in Tidyverse packages and spatial statistics), SAS, Minitab software
+**Statistics**	Rstudio (fluent in Tidyverse packages and spatial statistics), SAS, Minitab software
 Data Management	GitHub
-			
-# Organizations			
-JUGATAE Cornell Entomology Graduate Student Organization
+
+<br>
+
+### Organizations			
+**JUGATAE** Cornell Entomology Graduate Student Organization
 -	Professional development committee		
-Cornell Agritech SAGES organization
+**Cornell Agritech SAGES organization**
 -	Marketing committee		
-Entomological Society of America
+**Entomological Society of America**
+
+**American Academy for the Advancement of Science**
 		
-Gamma Sigma Delta Academic Honors Society
+**Gamma Sigma Delta Academic Honors Society**
 		
 Keystone Trail Association, volunteer trail maintainer		
-		
-# Volunteerism			
-Trail Maintainer | PA DCNR & PA State Forests		
+
+---
+
+<br>
+
+### Volunteerism			
+**Trail Maintainer** | PA DCNR & PA State Forests		
 March 2017- Present; Hours: 80		
 Maintains a 2-mile section of trail in the Moshannon State Forest that is utilized by a local trail race each summer as well as hikers year-round. Responsibilities include: Erosion maintenance, tree removal, and trail building. Records hours and tasks for DCNR yearly publication on-trail maintenance.
-Assistant Coach | West Branch High School Cross Country		
+
+<br>
+
+**Assistant Coach** | West Branch High School Cross Country		
 August 2017- September 2018; Hours: 60		
 Assists Head Coach, Jane Catanzaro, with practice and race day operations associate with the cross country team. Responsible for recording individual performances of athletes, as well as supervising and motivating student athletes and organizing daily practices. Unpaid position.
-Grounds Crew | Sanderson Farm Classic		
+
+<br>
+
+**Grounds Crew** | Sanderson Farm Classic		
 October 26th-30th 2016; Hours: 36		
 Maintained a consistent and aesthetically pleasing playing surface for PGA tournament players throughout the tournament. Jobs included bunker raking, leaf blowing, watering greens, temperature readings, etc.
+---
+<br>
 
-
-# Research and Publications		
+### Research and Publications		
 1.	Fleishman, S., Bock, H., Eissenstat, D.M. (2020). Influence of cover crops on deep soil environment in Noiret vineyards. (Agriculture Ecosystem and Environment, in review).
-
 2.	Yates, C., Guo, J., Bell, T.H., Fleishman, S., Bock, H., Trexler, R., Eissenstat, D. M., Centinari, M. (2020). Tree-induced alterations to soil properties and root-associated microorganisms following 23 years in a common garden. (Plant and Soil, in review)
 3.	Bock, H., Banizewski, J., Bruns, M.A, Tooker, J. (2020). Influences of planting density on granivory in polyculture cropping systems. (in progress)
 4.	Bock, H., Fleishman, S., Eissenstat, D.M. (2018) Effects of red fescue cover crop on grapevine root distribution. (unpublished undergraduate project)
 
-# Presentations			
+---
+<br>
+
+### Presentations			
 1.	Bock, H. Penn State Undergraduate Research Fair: Effects of root morphology and mycorrhizae types for tree species on soil nutrient properties. Undergraduate Research Expo, University Park, PA, 17 April 2019
 2.	Bock, H., Banizewski, J., Bruns, M., Tooker, J. Influences of planting density on granivory in polyculture cropping systems. Entomological Society of America, St. Louis, MO November 16-20, 2019
 3.	Bock, H., Fleishman, S., Eissenstat, D.M., Centinari, M. Influences of Cover Crops on Deep-Soil environments in Noiret Vineyards. Will present at University Park, PA April 2020

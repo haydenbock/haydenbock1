@@ -1,9 +1,7 @@
- output_dir: "."
-   name: "my-website"
+output_dir: "."
 navbar:
-  title: "Hayden Bock"
   left:
-    - text: "About Me"
-      href: index.html
-    - text: "Experience"
-      href: CV.html
+    - text: "About Hayden"
+      href: hayden.html
+    - text: "CV"
+      href: CV.html  

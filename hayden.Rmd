@@ -1,7 +1,4 @@
 ---
-title: "Hayden"
-author: "Hayden Bock"
-date: "11/10/2020"
 output: html_document
 ---
 
@@ -9,9 +6,5 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-A little about me
 
-blah
-\blah
-
-##blah
+![](file:///Users/haydenbock/Desktop/Cornell/Research/Lab%20Meeting%20materials%20and%20notes/Lab_interests_visualized/FinalLabWidget.html)
