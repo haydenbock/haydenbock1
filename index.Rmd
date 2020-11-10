@@ -1,7 +1,4 @@
 ---
-title: "index"
-author: "Hayden Bock"
-date: "11/10/2020"
 output: html_document
 ---
 
@@ -9,4 +6,5 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-testing
+# Hayden Bock
+
