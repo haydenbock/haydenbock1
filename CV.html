@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+<meta name="author" content="Hayden Bock" />
+
+<meta name="date" content="2020-11-10" />
+
+<title>CV</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="maria.html">Maria</a>
+</li>
+<li>
+  <a href="nina.html">Nina</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">CV</h1>
+<h4 class="author">Hayden Bock</h4>
+<h4 class="date">11/10/2020</h4>
+
+</div>
+
+
+<div id="curriculum-vitae" class="section level2">
+<h2>CURRICULUM VITAE</h2>
+<p>Hayden William Bock PhD Student Phone: 814-852-8053 Email: <a href="mailto:hwb44@cornell.edu" class="email">hwb44@cornell.edu</a></p>
+</div>
+<div id="education" class="section level1">
+<h1>Education</h1>
+<p>Institution Degree Year Field of Study Cornell University Ph.D. Entomology GPA: NA Expected 2025 Insect ecology, soil ecology</p>
+<p>The Pennsylvania State University B.S. Plant Science<br />
+GPA: 3.88<br />
+Dean’s List all semesters 2020 Plant Science (Agroecology focus) Minors: Agronomy, Entomology Work History<br />
+08/2020 to 12/2020 Graduate Teaching Assistant, Dr. Linda Rayor’s ENTOM 3150 Spider Biology.</p>
+<p>05/2018 to 8/2020 Undergraduate research assistant, John Tooker Lab, The Pennsylvania State University, University Park, PA.</p>
+<p>01/2018 to 7/2020 Undergraduate research assistant, David Eissenstat Lab, The Pennsylvania State University, University Park, PA.</p>
+<p>08/2019 to 7/2020 Undergraduate research assistant, Michaela Centinari Lab, The Pennsylvania State University, University Park, PA.</p>
+<p>05/2019 to 05/2020 Student agronomy research technician, Russell E. Larson Agricultural Research Station, Rocksprings, PA.</p>
+<p>05/2015 to 04/2019 Merchandiser at TJMaxx, State College, PA.</p>
+</div>
+<div id="grants-received" class="section level1">
+<h1>Grants Received</h1>
+<p>2019 Undergraduate Travel Grant, Department of Undergraduate Research, PSU $300.00</p>
+<p>2019 Undergraduate Travel Grant, College of Ag Science, PSU $300.00 2019 Undergraduate Travel Grant, Dept. of Entomology, PSU $400.00 2019 Undergraduate Research Grant, PSU $1,500.00. 2019 Erickson Discovery Grant, PSU $3,500.00. 2018 Undergraduate Research Grant, PSU $2,000.00 Scholarships<br />
+The Pennsylvania State University<br />
+19/20 Gerhart Crop and Soil Scholarship $1,500.00<br />
+19/20 Lawrence F Marriot Scholarship $2,496.00<br />
+18/19 Fehnel Scholarship in Agroecology $409.00 18/19 Lawrence F Marriot Scholarship $1619.00<br />
+18/19 PSU College of Ag Scholarship $1000.00<br />
+18/19 PSU Ready to Succeed Scholarship $2000.00<br />
+Mississippi State University<br />
+16/17 Academic Success Scholarship $16,000.00</p>
+</div>
+<div id="relevant-skills" class="section level1">
+<h1>Relevant Skills</h1>
+<p>Soil Science Soil judging, elemental analysis, ICP-OES, Mehlich 3 and KCL extraction (colorimetry and spectrophotometry), nitrogen modeling software (Encirca by Pioneer/Corteva), bulk density, infiltration</p>
+<p>Agronomy Crop scouting for corn, soybeans, small grains (nutrient deficiencies, insects, diseases), staging, yield estimation, tractor operations and planter calibrations</p>
+<p>Root ecology WhinRhizo software, AMF colonization calculations Entomology Crop scouting, insect rearing, identification, taxonomy and morphology, pinning and collection maintenance</p>
+<p>Statistics Rstudio (fluent in Tidyverse packages and spatial statistics), SAS, Minitab software Data Management GitHub</p>
+</div>
+<div id="organizations" class="section level1">
+<h1>Organizations</h1>
+<p>JUGATAE Cornell Entomology Graduate Student Organization - Professional development committee<br />
+Cornell Agritech SAGES organization - Marketing committee<br />
+Entomological Society of America</p>
+<p>Gamma Sigma Delta Academic Honors Society</p>
+<p>Keystone Trail Association, volunteer trail maintainer</p>
+</div>
+<div id="volunteerism" class="section level1">
+<h1>Volunteerism</h1>
+<p>Trail Maintainer | PA DCNR &amp; PA State Forests<br />
+March 2017- Present; Hours: 80<br />
+Maintains a 2-mile section of trail in the Moshannon State Forest that is utilized by a local trail race each summer as well as hikers year-round. Responsibilities include: Erosion maintenance, tree removal, and trail building. Records hours and tasks for DCNR yearly publication on-trail maintenance. Assistant Coach | West Branch High School Cross Country<br />
+August 2017- September 2018; Hours: 60<br />
+Assists Head Coach, Jane Catanzaro, with practice and race day operations associate with the cross country team. Responsible for recording individual performances of athletes, as well as supervising and motivating student athletes and organizing daily practices. Unpaid position. Grounds Crew | Sanderson Farm Classic<br />
+October 26th-30th 2016; Hours: 36<br />
+Maintained a consistent and aesthetically pleasing playing surface for PGA tournament players throughout the tournament. Jobs included bunker raking, leaf blowing, watering greens, temperature readings, etc.</p>
+</div>
+<div id="research-and-publications" class="section level1">
+<h1>Research and Publications</h1>
+<ol style="list-style-type: decimal">
+<li><p>Fleishman, S., Bock, H., Eissenstat, D.M. (2020). Influence of cover crops on deep soil environment in Noiret vineyards. (Agriculture Ecosystem and Environment, in review).</p></li>
+<li><p>Yates, C., Guo, J., Bell, T.H., Fleishman, S., Bock, H., Trexler, R., Eissenstat, D. M., Centinari, M. (2020). Tree-induced alterations to soil properties and root-associated microorganisms following 23 years in a common garden. (Plant and Soil, in review)</p></li>
+<li><p>Bock, H., Banizewski, J., Bruns, M.A, Tooker, J. (2020). Influences of planting density on granivory in polyculture cropping systems. (in progress)</p></li>
+<li><p>Bock, H., Fleishman, S., Eissenstat, D.M. (2018) Effects of red fescue cover crop on grapevine root distribution. (unpublished undergraduate project)</p></li>
+</ol>
+</div>
+<div id="presentations" class="section level1">
+<h1>Presentations</h1>
+<ol style="list-style-type: decimal">
+<li>Bock, H. Penn State Undergraduate Research Fair: Effects of root morphology and mycorrhizae types for tree species on soil nutrient properties. Undergraduate Research Expo, University Park, PA, 17 April 2019</li>
+<li>Bock, H., Banizewski, J., Bruns, M., Tooker, J. Influences of planting density on granivory in polyculture cropping systems. Entomological Society of America, St. Louis, MO November 16-20, 2019</li>
+<li>Bock, H., Fleishman, S., Eissenstat, D.M., Centinari, M. Influences of Cover Crops on Deep-Soil environments in Noiret Vineyards. Will present at University Park, PA April 2020</li>
+</ol>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
